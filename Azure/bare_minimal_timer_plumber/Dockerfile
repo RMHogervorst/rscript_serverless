@@ -22,4 +22,3 @@ COPY CRONtrigger/ /home/site/wwwroot/CRONtrigger
 COPY host.json /home/site/wwwroot/host.json
 COPY handler.R /home/site/wwwroot/handler.R
 COPY handle-this.R /home/site/wwwroot/handle-this.R
-#COPY focal.settings.json /home/site/wwwroot/local.settings.json
