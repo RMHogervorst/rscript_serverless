@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+    storage:
+        image: "mcr.microsoft.com/azure-storage/azurite"
+    function:
+        image: "rmhogervorst/azuretimertweet:v0.0.1"
+        env_file: 
+            - .Renviron
+        environment:
+            "AzureWebJobsStorage": "DefaultEndpointsProtocol=http;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==;BlobEndpoint=http://storage:10000/devstoreaccount1;"

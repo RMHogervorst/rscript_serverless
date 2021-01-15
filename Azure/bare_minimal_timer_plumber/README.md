@@ -73,4 +73,4 @@ The trigger calls out to `/<NAME YOU GAVE THE FUNCTION>` which makes sense, but 
 So because I used `func new --name CRONtrigger --template "timer trigger"`
 you have to respond to /CRONtrigger.
 
-
+d

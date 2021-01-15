@@ -1,0 +1,15 @@
+INFO [2021-01-14 18:07:07] adsfb
+INFO [2021-01-14 18:07:18] adasdf
+INFO [2021-01-15 10:26:11] Running on port 80
+INFO [2021-01-15 10:26:29] recieving on CRONtrigger
+INFO [2021-01-15 10:27:28] using "  Entertainment by Resources is an inverted u-shape" with foreground: #32305b and background: #ffe5e5
+INFO [2021-01-15 10:29:09] using "  Intelligence by Ideas is an inverted u-shape" with foreground: #30595b and background: #FFCC99
+INFO [2021-01-15 10:39:33] Running on port 80
+INFO [2021-01-15 10:40:34] Running on port 80
+INFO [2021-01-15 10:48:18] Running on port 80
+INFO [2021-01-15 10:53:51] recieving on CRONtrigger
+INFO [2021-01-15 10:53:55] using "  Polution by Number of Exclamation marks is an inverted u-shape" with foreground: #30445b and background: #ffe5e5
+INFO [2021-01-15 10:54:03] Tweet posted
+INFO [2021-01-15 10:55:47] recieving on CRONtrigger
+INFO [2021-01-15 10:55:47] using "  Judgement by Resources is an inverted u-shape" with foreground: #30595b and background: #e5e5ff
+INFO [2021-01-15 10:55:49] Tweet posted
